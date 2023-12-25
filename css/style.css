@@ -1,0 +1,8 @@
+.btn-info{
+    --bs-btn-hover-bg:rgb(240, 107, 107);
+    transition: all .5s; 
+}
+.inner h1{
+    font-weight: 900;
+    font-size: 4rem;
+}
